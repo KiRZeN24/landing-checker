@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Playwright specific
+test-results/ 
+playwright-report/  
+.playwright/  
+
+# OS / Editor / IDE
+.DS_Store  
+Thumbs.db  
+.vscode/  
+.idea/  
